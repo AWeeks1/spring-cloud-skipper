@@ -1,7 +1,7 @@
 [[getting-started]]
 = Getting started
 
-This section describes the minimal steps to install Skipper in addition to installing a sample application.  It is the "three second tour".  After completing this section, you can move on to the <<three minute tour>>.  When you are ready to dive deeper, head on over to the <<three-hour-tour>> (well not really three hours...).
+This section describes the minimal steps to install Skipper in addition to installing a sample application.  It is the "three second tour".  After completing this section, you can move on to the <<three-minute-tour>>.  When you are ready to dive deeper, head on over to the <<three-hour-tour>> (well not really three hours...).
 
 [[getting-started-system-requirements]]
 == System Requirements
